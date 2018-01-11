@@ -1,0 +1,24 @@
+TASK com.example.android.quakereport id=395
+  ACTIVITY com.example.android.quakereport/.EarthquakeActivity 2bc7f9c3 pid=28105
+    Local FragmentActivity 3c782a63 State:
+      mCreated=truemResumed=true mStopped=false mReallyStopped=false
+      mLoadersStarted=true
+    FragmentManager misc state:
+      mHost=android.support.v4.app.FragmentActivity$HostCallbacks@7a66660
+      mContainer=android.support.v4.app.FragmentActivity$HostCallbacks@7a66660
+      mCurState=5 mStateSaved=false mDestroyed=false
+    View Hierarchy:
+      com.android.internal.policy.impl.PhoneWindow$DecorView{34b0719 V.E..... ... 0,0-1080,1920}
+        android.widget.LinearLayout{1971d3de V.E..... ... 0,0-1080,1794}
+          android.view.ViewStub{3fb909bf G.E..... ... 0,0-0,0 #1020373}
+          android.widget.FrameLayout{b7b888c V.E..... ... 0,66-1080,1794}
+            android.support.v7.widget.ActionBarOverlayLayout{2f7bfbd5 V.E..... ... 0,0-1080,1728 #7f0c003f app:id/decor_content_parent}
+              android.support.v7.widget.ContentFrameLayout{1a434fea V.E..... ... 0,147-1080,1728 #1020002 android:id/content}
+                android.widget.ListView{29fe82db V.ED.VC. ... 0,0-1080,1581 #7f0c0050 app:id/list}
+              android.support.v7.widget.ActionBarContainer{3d9ea178 V.ED.... ... 0,0-1080,147 #7f0c0040 app:id/action_bar_container}
+                android.support.v7.widget.Toolbar{2c8d8051 V.E..... ... 0,0-1080,147 #7f0c0041 app:id/action_bar}
+                  android.widget.TextView{24fe80b6 V.ED.... ... 42,38-364,109}
+                  android.support.v7.widget.ActionMenuView{e5871b7 V.E..... ... 1080,0-1080,147}
+                android.support.v7.widget.ActionBarContextView{38d85d24 G.E..... ... 0,0-0,0 #7f0c0042 app:id/action_context_bar}
+        android.view.View{e58d08d V.ED.... ... 0,0-1080,66 #102002f android:id/statusBarBackground}
+        android.view.View{569f242 V.ED.... ... 0,1794-1080,1920 #1020030 android:id/navigationBarBackground}

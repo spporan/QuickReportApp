@@ -1,0 +1,43 @@
+Activity Resolver Table:
+  Non-Data Actions:
+      android.intent.action.MAIN:
+        27adcc2b com.example.android.quakereport/.EarthquakeActivity
+
+Registered ContentProviders:
+  com.example.android.quakereport/com.android.tools.fd.runtime.InstantRunContentProvider:
+    Provider{2d773888 com.example.android.quakereport/com.android.tools.fd.runtime.InstantRunContentProvider}
+
+ContentProvider Authorities:
+  [com.example.android.quakereport.com.android.tools.fd.runtime.InstantRunContentProvider]:
+    Provider{2d773888 com.example.android.quakereport/com.android.tools.fd.runtime.InstantRunContentProvider}
+      applicationInfo=ApplicationInfo{302cb221 com.example.android.quakereport}
+
+Key Set Manager:
+  [com.example.android.quakereport]
+      Signing KeySets: 14
+
+Packages:
+  Package [com.example.android.quakereport] (2fc3d00b):
+    userId=10069 gids=[3003]
+    pkg=Package{7d41646 com.example.android.quakereport}
+    codePath=/data/app/com.example.android.quakereport-2
+    resourcePath=/data/app/com.example.android.quakereport-2
+    legacyNativeLibraryDir=/data/app/com.example.android.quakereport-2/lib
+    primaryCpuAbi=null
+    secondaryCpuAbi=null
+    versionCode=1 targetSdk=23
+    versionName=1.0
+    splits=[base, lib_dependencies_apk, lib_slice_0_apk, lib_slice_1_apk, lib_slice_2_apk, lib_slice_3_apk, lib_slice_4_apk, lib_slice_5_apk, lib_slice_6_apk, lib_slice_7_apk, lib_slice_8_apk, lib_slice_9_apk]
+    applicationInfo=ApplicationInfo{302cb221 com.example.android.quakereport}
+    flags=[ DEBUGGABLE HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP ]
+    dataDir=/data/data/com.example.android.quakereport
+    supportsScreens=[small, medium, large, xlarge, resizeable, anyDensity]
+    timeStamp=2018-01-11 00:10:50
+    firstInstallTime=2018-01-10 20:07:01
+    lastUpdateTime=2018-01-11 00:10:50
+    signatures=PackageSignatures{33490901 [343b0007]}
+    permissionsFixed=true haveGids=true installStatus=1
+    pkgFlags=[ DEBUGGABLE HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP ]
+    User 0:  installed=true hidden=false stopped=false notLaunched=false enabled=0
+    grantedPermissions:
+      android.permission.INTERNET
